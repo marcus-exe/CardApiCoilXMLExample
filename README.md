@@ -1,8 +1,8 @@
 # Card Api Coil XML Example
 
-It's some simple CardView using Picasso lib for deserializing and loading an image.
+It's some simple CardView using Coil lib for deserializing and loading an image.
 
-There are 3 cards:
+There are 4 cards:
 1) The URL is ok and has no delay
 2) The URL is ok but has a 5s delay - async
 3) The URL is ok but has a 5s delay - sync
